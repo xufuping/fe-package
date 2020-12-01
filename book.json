@@ -1,0 +1,11 @@
+{
+  "title": "前端小背包",
+  "description": "为自己打造一个舒适的前端开发环境",
+  "author": "Xu Qingfeng",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "Home": "https://www.baidu.com"
+    }
+  }
+}
