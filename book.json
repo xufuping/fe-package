@@ -5,7 +5,40 @@
   "language": "zh-hans",
   "links": {
     "sidebar": {
-      "Home": "https://www.baidu.com"
+      "爬山": "https://www.baidu.com"
+    }
+  },
+  "plugins": [
+    "advanced-emoji",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "splitter",
+    "tbfed-pagefooter",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy Zhang Peng.com 2017",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false,
+      "associatedWithSummary": true,
+      "isRewritePageTitle": false,
+      "float": {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      },
+      "pageTop": {
+        "showLevelIcon": false,
+        "level1Icon": "fa fa-hand-o-right",
+        "level2Icon": "fa fa-hand-o-right",
+        "level3Icon": "fa fa-hand-o-right"
+      }
     }
   }
 }
