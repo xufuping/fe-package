@@ -3,11 +3,7 @@
   "description": "为自己打造一个舒适的前端开发环境",
   "author": "Xu Qingfeng",
   "language": "zh-hans",
-  "links": {
-    "sidebar": {
-      "爬山": "https://www.baidu.com"
-    }
-  },
+  "links": {},
   "plugins": [
     "advanced-emoji",
     "-lunr",
@@ -15,7 +11,8 @@
     "search-plus",
     "splitter",
     "tbfed-pagefooter",
-    "anchor-navigation-ex"
+    "anchor-navigation-ex",
+    "expandable-chapters"
   ],
   "pluginsConfig": {
     "tbfed-pagefooter": {
@@ -40,5 +37,8 @@
         "level3Icon": "fa fa-hand-o-right"
       }
     }
+  },
+  "styles": {
+    "website": "styles/website.css"
   }
 }

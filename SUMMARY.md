@@ -2,30 +2,35 @@
 
 - [写在前面](README.md)
 
-## 前端开发环境
+- 前端开发环境
 
-- [Writing is nice](part1/writing.md)
-- [GitBook is nice](part1/gitbook.md)
+  - [Writing is nice](part1/writing.md)
 
-## 知识小零碎
+- 知识小零碎
 
-- [We love feedback](part2/feedback_please.md)
-- [Better tools for authors](part2/better_tools.md)
+  - [We love feedback](part2/feedback_please.md)
 
-## 读书笔记
+- 读书笔记
 
-### 《JavaScript 高级程序设计》
+  - 1.《JavaScript 高级程序设计》
 
-- [Last part without title](part3/title.md)
+    - [1.简介](part3/javascript_high_level/1.md)
+    - [2.基本概念](part3/javascript_high_level/2.md)
+    - [3.变量、作用域、内存和引用类型](part3/javascript_high_level/3.md)
+    - [4.Array](part3/javascript_high_level/4.md)
+    - [5.Date Function Global Math](part3/javascript_high_level/5.md)
+    - [6.对象设计](part3/javascript_high_level/6.md)
+    - [7.闭包](part3/javascript_high_level/7.md)
+    - [8.window location 间歇和超时](part3/javascript_high_level/8.md)
 
-### 《编写可维护的 js》
+  - 2.《编写可维护的 js》
 
-### 《h5 权威指南》
+  - 3.《h5 权威指南》
 
-### 《http 权威指南》
+  - 4.《http 权威指南》
 
-### 《angular》
+  - 5.《angular》
 
-### 《js 语言精萃》
+  - 6.《js 语言精萃》
 
-### 《json 必知必会》
+  - 7.《json 必知必会》
