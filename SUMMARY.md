@@ -4,13 +4,14 @@
 
 - 前端开发环境
 
-  - [Writing is nice](part1/writing.md)
+  - [前端基础环境搭建](part1/abase.md)
+  - [shell](part1/shell.md)
 
-- 知识小零碎
+- 技术类知识零碎
 
-  - [We love feedback](part2/feedback_please.md)
+  - [前端代码常用小操作](part2/1_fe_useful.md)
 
-- 读书笔记
+- 技术类读书笔记
 
   - 1.《JavaScript 高级程序设计》
 
